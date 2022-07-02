@@ -11,4 +11,7 @@ I am Hitalo Siriano Alexandre  🧔
 
 ## ⚡ Technologies
 
-<img align="right" src="https://www.flaticon.com/free-icon/javascript_136530#"/>
+  <h1>.HTML5</h1>
+  <h1>.CSS3</h1>
+  <h1>.JAVASCRIPT</h1>
+  
